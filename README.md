@@ -1,2 +1,2 @@
 # ANN-Model-For-Classification-Prediction
-ANN Model to predict water potability
+A compilation of Artificial Neural Network Projects.
